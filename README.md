@@ -8,4 +8,5 @@
 ・スタンプ風の擦れ文字を表現したい場合は<strong>光彩・メゾティント・ラフ効果</strong>を適用する<br>
 ・数字と英字は<strong>Helveticaフォント</strong>を使用する<br>
 ・<strong>助詞</strong>は小さくすることでメリハリが出る<br>
-・太字には<strong>ゴシックMB101</strong>がよく使用される
+・太字には<strong>ゴシックMB101</strong>がよく使用される<br>
+・<strong>句読点</strong>をつける時は詰める<br>
