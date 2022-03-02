@@ -10,3 +10,9 @@
 ・<strong>助詞</strong>は小さくすることでメリハリが出る<br>
 ・太字には<strong>ゴシックMB101</strong>がよく使用される<br>
 ・<strong>句読点</strong>をつける時は詰める<br>
+
+<h2>モーショングラフィック</h2>
+<h3>chapter01</h3>
+・<strong>マスク</strong>を使用することで一部をくり抜くことができる<br>
+・<strong>モーションブラー</strong>はブレが表現できる<br>
+・潰れるアニメーションを作成したい場合は<strong>X・Y軸</strong>の合計値をそろえる<br>
