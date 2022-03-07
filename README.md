@@ -14,6 +14,7 @@
 ・<strong>助詞</strong>は小さくすることでメリハリが出る<br>
 ・太字には<strong>ゴシックMB101</strong>がよく使用される<br>
 ・<strong>句読点</strong>をつける時は詰める<br>
+・上品な和風のイメージを使用する場合は<strong>筆文字や筆記体</strong>を使用する<br>
 
 <h2>モーショングラフィック</h2>
 <h3>chapter01</h3>
