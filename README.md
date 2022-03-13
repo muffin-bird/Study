@@ -24,7 +24,7 @@
 ・<strong>マスク</strong>を使用することで一部をくり抜くことができる<br>
 ・<strong>モーションブラー</strong>はブレが表現できる<br>
 ・潰れるアニメーションを作成したい場合は<strong>X・Y軸</strong>の合計値をそろえる<br>
-・<strong>ウィグリー</strong>はテキストを不規則に揺らすことができる<br>
+・<strong>ウィグラー</strong>はテキストを不規則に揺らすことができる<br>
 ・テキストを左から順にアニメーションを追加したい場合は<strong>オフセット</strong>を調整する<br>
 ・<strong>エコーエフェクト</strong>は残像を追加できる<br>
 ・<strong>チョークエフェクト</strong>は角を丸くすることができる<br>
@@ -36,3 +36,4 @@
 ・金属質のテキストを表現したい場合は<strong>CC BlobbylizeとCC Glassエフェクト</strong>を使用する<br>
 ・<strong>トーンカーブエフェクト</strong>は色合いを調整できる<br>
 ・<strong>グローエフェクト</strong>は輝きを調整できる<br>
+・カメラで動きをつける場合は<strong>モーションブラー・ウィグラー</strong>を使用すると立体的な表現ができる<br>
