@@ -5,6 +5,7 @@
 ・デザインは<strong>下から作成</strong>する ※WEBの場合は上から作成する<br>
 ・キャッチは<strong>左上か右上</strong>に配置するのが基本<br>
 ・下に<strong>重心</strong>を置くことでデザインが安定する<br>
+・キャッチコピーは<strong>２０字以内</strong>を意識する<br>
 
 <h2>文字</h2>
 ・<strong>質感</strong>を意識することでタイトルがより強調される<br>
