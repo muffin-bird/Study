@@ -41,3 +41,7 @@
 ・テキストをデザインしたい場合は<strong>レイヤースタイル</strong>を選択<br>
 ・<strong>シャターエフェクト</strong>はテキストが崩壊していく表現をすることができる<br>
 ・<strong>CC Particle Worldエフェクト</strong>はキラキラした演出や花火のようなアニメーションを作成できる<br>
+・線が動くアニメーションを作成する時は<strong>パスのトリミング</strong>の開始点と終了点を0%から100%にする<br>
+・<strong>アルファマット</strong>はレイヤーの上下の順序が重要<br>
+
+・数字と英字は<strong>Helveticaフォント</strong>を使用する<br>
