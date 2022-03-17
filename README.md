@@ -16,6 +16,7 @@
 ・数字と英字は<strong>Helveticaフォント</strong>を使用する<br>
 ・<strong>助詞</strong>は小さくすることでメリハリが出る<br>
 ・太字には<strong>ゴシックMB101</strong>がよく使用される<br>
+・数字と英字は<strong>Helveticaフォント</strong>を使用する<br>
 ・<strong>句読点</strong>をつける時は詰める<br>
 ・上品な和風のイメージを使用する場合は<strong>筆文字や筆記体</strong>を使用する<br>
 ・パスを<strong>ブラシ</strong>に変換することで質感などを表現することができる<br>
@@ -44,4 +45,4 @@
 ・線が動くアニメーションを作成する時は<strong>パスのトリミング</strong>の開始点と終了点を0%から100%にする<br>
 ・<strong>アルファマット</strong>はレイヤーの上下の順序が重要<br>
 
-・数字と英字は<strong>Helveticaフォント</strong>を使用する<br>
+
