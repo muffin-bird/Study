@@ -15,6 +15,7 @@
 ・チラシなどは<strong>CMYK(シアン・マゼンタ・イエロー)</strong>で表現されている<br>
 ・白、黒、グレーのような色味のない色は<strong>無彩色である</strong> ※それ以外の色は<strong>有彩色である</strong><br>
 ・有彩色は<strong>純色、清色、濁色</strong>に分類される<br>
+・グラデーションは<strong>共通性</strong>のある色同士を組み合わせる<br>
 ・Illustratorの<strong>オブジェクト再配色</strong>は原色の明度・彩度・色相をリアルタイムで確認できる<br>
 ・淡い色(薄い)色は<strong>彩度が低い<strong>
 
