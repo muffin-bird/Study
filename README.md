@@ -18,9 +18,8 @@
 ・有彩色は<strong>純色、清色、濁色</strong>に分類される<br>
 ・グラデーションは<strong>共通性</strong>のある色同士を組み合わせる<br>
 ・Illustratorの<strong>オブジェクト再配色</strong>は原色の明度・彩度・色相をリアルタイムで確認できる<br>
-・淡い色(薄い)色は<strong>彩度が低い<strong><br>
+・淡い色(薄い)色は<strong>彩度が低い</strong><br>
 ・IllustratorやPhotoshopの<strong>カラーパネル</strong>の上半分は明清色で下半分は暗清色である<br>
-
 
 <h2>文字</h2>
 ・<strong>質感</strong>を意識することでタイトルがより強調される<br>
