@@ -20,6 +20,7 @@
 ・Illustratorの<strong>オブジェクト再配色</strong>は原色の明度・彩度・色相をリアルタイムで確認できる<br>
 ・淡い色(薄い)色は<strong>彩度が低い</strong><br>
 ・IllustratorやPhotoshopの<strong>カラーパネル</strong>の上半分は明清色で下半分は暗清色である<br>
+・<strong>明度</strong>は大きさに影響する ※明るい色は軽く、暗い色は重い<br>
 
 <h2>文字</h2>
 ・<strong>質感</strong>を意識することでタイトルがより強調される<br>
