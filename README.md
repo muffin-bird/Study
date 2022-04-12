@@ -77,3 +77,4 @@
 ・<strong>シャープ</strong>を0に固定<br>
 ・<strong>コントラスト</strong>は高め<br>
 ・<strong>レンジ</strong>を狭くする<br>
+・<strong>黒レベル</strong>を上げる<br>
