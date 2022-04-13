@@ -78,3 +78,4 @@
 ・<strong>コントラスト</strong>は高め<br>
 ・<strong>レンジ</strong>を狭くする<br>
 ・<strong>黒レベル</strong>を上げる<br>
+・<strong>彩度</strong>を下げる<br>
