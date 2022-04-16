@@ -22,6 +22,7 @@
 ・IllustratorやPhotoshopの<strong>カラーパネル</strong>の上半分は明清色で下半分は暗清色である<br>
 ・<strong>明度</strong>は大きさに影響する ※明るい色は軽く、暗い色は重い<br>
 <strong>配色</strong>のコツは属性を揃える ※色相、彩度、明度のうちどれか一つが共通していれば良い<br>
+・<strong>色相調和論</strong>を意識する<br>
 
 <h2>文字</h2>
 ・<strong>質感</strong>を意識することでタイトルがより強調される<br>
