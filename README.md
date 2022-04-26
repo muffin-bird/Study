@@ -89,4 +89,3 @@
 ・<strong>黒レベル</strong>を上げる<br>
 ・<strong>シャドウ</strong>を下げる<br>
 ・<strong>彩度</strong>を下げる<br>
-
