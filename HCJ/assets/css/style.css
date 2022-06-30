@@ -14,13 +14,17 @@ body {
 /* section */
 .section {
 	padding: 30px 15px;
-	font-size: 40px;
-	font-weight: bold;
 	margin: 0 0 40px;
+}
+
+.section.section-secounday {
+	background-color: #efefef;
 }
 
 .section-headline {
 	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
 }
 
 /* about */
@@ -29,7 +33,7 @@ body {
 	display: flex;
 }
 
-.about-image {}
+/*.about-image {}*/
 
 .about-caption {
 	padding-left: 15px;
@@ -39,4 +43,35 @@ body {
 	margin: 0 0 20px;
 	font-size: 30px;
 }
-.bout-description {}
+
+/*.bout-description {}*/
+
+.grid {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.grid-item {
+	list-style: none;
+}
+
+.future {
+	text-align: center;
+	padding: 0 15px;
+}
+
+.future-headline {
+	font-weight: bold;
+	margin: 0 0 20px;
+}
+
+.future-img {
+	margin: 0 0 20px;
+}
+
+.future-description {
+	text-align: left;
+}
